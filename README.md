@@ -14,3 +14,33 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# React E-commerce Store
+
+> ⚠️ **Work in Progress** — This is my learning project,
+> currently being rebuilt from a tutorial with plans to
+> expand into a full-featured e-commerce app.
+
+##  Current Status: v0.1 (Learning Phase)
+
+This version includes:
+-  Home page with categories
+-  Product details page
+-  Shopping cart (in progress)
+-  Favorites page
+-  Search functionality
+-  Category pages
+
+
+##  Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React | UI library |
+| React Router | Routing |
+| Framer Motion | Animations |
+| Context API | Cart state |
+| React Icons | Icons |
+| React Hot Toast | Notifications |
+| DummyJSON | Fake API |
+
